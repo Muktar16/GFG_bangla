@@ -6,3 +6,11 @@
     text-align: justify;
     text-justify: inter-word;
 }
+.code-block{
+    background-color: black;
+}
+code{
+    color: white;
+}
+
+
