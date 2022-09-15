@@ -2,6 +2,9 @@ body {
     min-height: 100vh;
     min-height: -webkit-fill-available;
   }
+  .sidebar{
+    background-color: gainsboro;
+  }
   
   html {
     height: -webkit-fill-available;

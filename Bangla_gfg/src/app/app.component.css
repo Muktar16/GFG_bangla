@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
+
+  .container1{
+    display:flex;
+    background-color: gainsboro;
+    
+  }
+  
+  .container1 .left-panel,  .container1 .right-panel{
+    top:70px;
+    width:300px;
+    height:calc(100vh - 70px);
+  }
+  
+  
+  .container1 .middle-panel{
+    position: inherit;
+    flex:1;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    background-color: white;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
